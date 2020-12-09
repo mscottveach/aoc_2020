@@ -1,0 +1,24 @@
+{
+  "name": "aoc_2020",
+  "version": "1.0.0",
+  "description": "advent of code, yo",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscottveach/aoc_2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscottveach/aoc_2020/issues"
+  },
+  "homepage": "https://github.com/mscottveach/aoc_2020#readme"
+}
