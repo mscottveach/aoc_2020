@@ -1,4 +1,4 @@
- var fs = require('fs');
+var fs = require('fs');
 var data = fs.readFileSync('input.txt',"utf8");
 
 let blank_line = /\r\n\r\n/g;

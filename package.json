@@ -4,7 +4,9 @@
   "description": "advent of code, yo",
   "main": "app.js",
   "dependencies": {
+    "cytoscape": "^3.17.0",
     "fs": "^0.0.1-security",
+    "js-graph-algorithms": "^1.0.18",
     "nodemon": "^2.0.6"
   },
   "devDependencies": {},
