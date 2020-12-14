@@ -1,0 +1,204 @@
+shiny lime bags contain 3 muted magenta bags, 3 clear cyan bags.
+shiny violet bags contain 1 faded brown bag, 1 dull red bag.
+muted maroon bags contain 4 pale lime bags.
+pale magenta bags contain 2 striped coral bags, 1 shiny orange bag, 3 vibrant white bags, 4 posh cyan bags.
+vibrant crimson bags contain 4 bright white bags, 3 dark brown bags, 4 plaid crimson bags.
+mirrored red bags contain 2 bright orange bags, 3 dull brown bags, 4 dotted brown bags.
+muted red bags contain 2 bright green bags.
+faded chartreuse bags contain 5 bright cyan bags.
+wavy red bags contain 4 drab white bags, 1 plaid silver bag.
+pale purple bags contain 4 muted yellow bags, 2 mirrored chartreuse bags, 5 mirrored purple bags, 2 mirrored red bags.
+dull blue bags contain 4 dark brown bags, 2 faded blue bags, 4 dim aqua bags.
+mirrored tomato bags contain 1 posh turquoise bag, 2 bright aqua bags.
+clear lavender bags contain 3 plaid bronze bags, 4 faded plum bags, 2 muted coral bags, 1 posh chartreuse bag.
+light cyan bags contain 1 plaid tan bag, 2 muted cyan bags, 3 dim cyan bags, 1 pale gray bag.
+plaid lavender bags contain 4 bright cyan bags, 1 dim aqua bag, 3 muted orange bags.
+dotted bronze bags contain 5 drab lime bags, 3 striped plum bags, 3 faded blue bags, 5 faded purple bags.
+clear indigo bags contain 3 dotted purple bags.
+vibrant cyan bags contain 4 dim tomato bags, 1 dull green bag, 5 light silver bags, 2 striped gold bags.
+pale yellow bags contain no other bags.
+drab gray bags contain 4 shiny maroon bags.
+clear turquoise bags contain 3 dotted blue bags, 3 faded cyan bags.
+plaid bronze bags contain 3 light tomato bags, 2 faded chartreuse bags.
+mirrored turquoise bags contain 2 plaid purple bags, 5 mirrored tomato bags, 2 drab tan bags.
+wavy turquoise bags contain 2 plaid salmon bags.
+shiny yellow bags contain 2 striped aqua bags, 5 drab gray bags, 4 pale aqua bags, 5 dim purple bags.
+clear magenta bags contain 1 striped brown bag, 1 dull black bag, 5 light lime bags.
+plaid indigo bags contain 5 wavy purple bags, 2 pale blue bags.
+plaid brown bags contain 4 striped salmon bags.
+dull gold bags contain 2 mirrored green bags, 1 shiny coral bag, 4 shiny red bags.
+dark white bags contain 3 muted black bags, 1 vibrant yellow bag, 4 dotted chartreuse bags, 3 mirrored white bags.
+drab blue bags contain 3 wavy tomato bags.
+dull teal bags contain 5 drab fuchsia bags, 4 dim black bags.
+drab aqua bags contain 3 dark red bags.
+faded gold bags contain 1 pale bronze bag, 4 dim gold bags, 1 vibrant aqua bag, 2 bright aqua bags.
+drab black bags contain 3 light cyan bags.
+dim purple bags contain 5 mirrored bronze bags, 3 shiny bronze bags, 3 shiny turquoise bags, 4 clear maroon bags.
+dim lime bags contain 4 vibrant yellow bags.
+dotted white bags contain 5 faded lime bags.
+muted lavender bags contain 3 dotted bronze bags, 2 faded chartreuse bags, 5 drab gold bags, 5 dark white bags.
+drab white bags contain 1 clear lavender bag, 3 posh maroon bags.
+bright tan bags contain 5 mirrored gray bags, 4 posh plum bags, 4 dull brown bags.
+pale beige bags contain 4 muted indigo bags.
+bright turquoise bags contain 5 wavy violet bags, 4 wavy indigo bags, 2 faded beige bags, 2 dim yellow bags.
+muted violet bags contain 4 drab lime bags.
+posh chartreuse bags contain 5 wavy silver bags, 4 light aqua bags.
+faded green bags contain 5 muted magenta bags, 4 dark fuchsia bags.
+dull orange bags contain 2 mirrored tomato bags, 4 wavy orange bags.
+posh red bags contain 5 dim chartreuse bags, 1 shiny aqua bag, 1 wavy black bag.
+clear crimson bags contain 5 dotted tan bags, 2 wavy crimson bags, 4 dim orange bags, 5 drab turquoise bags.
+striped lavender bags contain 5 plaid teal bags, 4 dull crimson bags, 4 posh lavender bags.
+faded lavender bags contain 2 vibrant coral bags.
+posh lavender bags contain 2 drab silver bags, 1 drab cyan bag.
+plaid olive bags contain 5 vibrant yellow bags, 1 striped bronze bag.
+light indigo bags contain 3 shiny cyan bags, 3 vibrant yellow bags.
+light orange bags contain 2 dark indigo bags.
+dim teal bags contain 3 bright lavender bags, 4 wavy tomato bags, 2 shiny gray bags, 5 bright blue bags.
+dull tomato bags contain 5 drab lime bags, 3 dark olive bags, 4 drab turquoise bags.
+muted indigo bags contain 5 posh chartreuse bags, 1 mirrored green bag, 3 dark brown bags, 1 dark orange bag.
+wavy fuchsia bags contain 3 mirrored magenta bags, 5 drab fuchsia bags, 5 dull green bags.
+dim violet bags contain 2 posh crimson bags.
+faded lime bags contain no other bags.
+wavy salmon bags contain 5 posh red bags.
+drab cyan bags contain 3 dull indigo bags, 1 vibrant indigo bag.
+striped purple bags contain 1 faded blue bag, 3 faded fuchsia bags, 3 pale maroon bags.
+dim aqua bags contain no other bags.
+pale olive bags contain 1 muted indigo bag.
+striped tan bags contain 4 light coral bags, 4 dull violet bags, 3 dim purple bags, 5 dull yellow bags.
+dull black bags contain 1 dotted beige bag.
+bright lime bags contain 2 light yellow bags.
+faded red bags contain 2 drab teal bags, 2 pale coral bags, 5 dotted black bags.
+vibrant green bags contain 4 drab bronze bags.
+posh gold bags contain 2 pale cyan bags, 3 clear lavender bags, 2 plaid bronze bags.
+muted magenta bags contain 5 shiny blue bags, 1 faded olive bag, 4 drab brown bags, 3 dull violet bags.
+muted lime bags contain 5 light blue bags, 1 vibrant lavender bag.
+muted tan bags contain 3 vibrant coral bags, 5 muted coral bags, 3 light bronze bags.
+drab teal bags contain 3 dotted fuchsia bags, 4 drab aqua bags, 3 dim aqua bags.
+muted purple bags contain 1 drab tan bag.
+dim brown bags contain 4 dotted tan bags.
+drab lime bags contain 1 mirrored green bag, 5 clear lime bags, 3 posh yellow bags, 5 pale yellow bags.
+wavy aqua bags contain 1 faded silver bag.
+striped magenta bags contain 2 mirrored aqua bags, 1 dotted gold bag.
+dull maroon bags contain 2 drab maroon bags, 3 shiny lavender bags.
+dotted yellow bags contain 2 dark indigo bags, 3 shiny gold bags, 2 muted coral bags, 5 pale maroon bags.
+shiny plum bags contain 5 vibrant coral bags, 3 dotted gray bags, 1 pale lime bag, 4 plaid green bags.
+faded violet bags contain 1 dark crimson bag, 5 pale gray bags, 1 pale olive bag.
+faded olive bags contain 4 wavy indigo bags.
+drab green bags contain 1 vibrant yellow bag, 1 posh tomato bag, 1 dull yellow bag, 5 shiny bronze bags.
+shiny black bags contain 3 clear gray bags, 4 dim tomato bags.
+dull coral bags contain 1 pale cyan bag, 1 light brown bag.
+mirrored coral bags contain 1 dark tomato bag, 3 vibrant coral bags, 3 posh lime bags, 3 pale fuchsia bags.
+faded white bags contain 1 light silver bag, 3 striped turquoise bags, 3 dark green bags, 3 posh orange bags.
+wavy orange bags contain 2 dotted indigo bags, 1 vibrant indigo bag, 4 dull teal bags, 3 striped gold bags.
+plaid beige bags contain 4 pale blue bags.
+plaid green bags contain 1 mirrored bronze bag, 3 mirrored purple bags, 5 shiny coral bags, 5 posh yellow bags.
+mirrored tan bags contain 1 faded blue bag.
+plaid violet bags contain 2 faded blue bags.
+shiny coral bags contain 3 vibrant bronze bags, 5 dull salmon bags.
+dim beige bags contain 3 plaid magenta bags, 2 light gold bags, 1 shiny blue bag, 5 bright teal bags.
+pale coral bags contain 1 faded orange bag, 3 dark turquoise bags.
+mirrored crimson bags contain 2 dull silver bags.
+dim tan bags contain 3 light tomato bags, 4 dotted chartreuse bags.
+striped cyan bags contain 1 faded violet bag, 3 dotted lavender bags, 4 light lavender bags, 1 drab fuchsia bag.
+dull turquoise bags contain 3 bright teal bags, 1 faded blue bag, 5 bright magenta bags.
+bright magenta bags contain 2 wavy indigo bags.
+wavy magenta bags contain 2 dim cyan bags, 2 dim violet bags, 4 dark salmon bags, 2 vibrant bronze bags.
+wavy lavender bags contain 4 pale cyan bags, 4 vibrant yellow bags, 1 vibrant white bag.
+pale green bags contain 3 dark indigo bags, 3 shiny gray bags.
+dark aqua bags contain 3 faded turquoise bags, 3 vibrant indigo bags, 3 dull salmon bags, 1 dotted gray bag.
+dim gray bags contain 1 faded silver bag, 3 muted red bags, 2 wavy orange bags, 1 posh beige bag.
+clear black bags contain 4 vibrant plum bags, 3 bright brown bags, 2 dark gray bags, 1 clear teal bag.
+drab indigo bags contain 2 dim aqua bags, 5 vibrant blue bags, 5 dull salmon bags, 5 drab violet bags.
+mirrored orange bags contain 5 posh olive bags, 5 dotted tan bags, 5 mirrored salmon bags, 4 posh red bags.
+plaid fuchsia bags contain 4 drab green bags, 3 mirrored tomato bags, 5 light white bags, 5 muted cyan bags.
+shiny teal bags contain 5 bright white bags, 5 mirrored red bags.
+light maroon bags contain 1 drab cyan bag.
+vibrant fuchsia bags contain 5 drab crimson bags.
+faded gray bags contain 3 mirrored aqua bags.
+wavy chartreuse bags contain 4 muted orange bags, 2 clear blue bags, 1 muted tan bag, 2 clear lime bags.
+dark yellow bags contain 5 wavy orange bags, 4 mirrored beige bags.
+wavy green bags contain 5 vibrant tan bags.
+dotted magenta bags contain 2 shiny red bags.
+faded crimson bags contain 4 muted gray bags, 3 dim black bags.
+dull cyan bags contain 3 posh tomato bags, 3 drab indigo bags, 2 vibrant blue bags.
+posh aqua bags contain 2 posh yellow bags.
+muted white bags contain 1 faded tomato bag.
+vibrant tomato bags contain 5 vibrant white bags.
+dim black bags contain 2 drab indigo bags.
+mirrored lime bags contain 4 dull brown bags.
+drab plum bags contain 5 plaid green bags, 5 striped lime bags, 1 dotted teal bag.
+dark olive bags contain 2 wavy plum bags.
+pale lime bags contain 4 dark orange bags, 5 dim black bags, 1 dull white bag.
+striped fuchsia bags contain 4 bright orange bags, 3 pale maroon bags.
+plaid maroon bags contain 1 dull coral bag.
+clear white bags contain 5 plaid lavender bags, 1 faded turquoise bag, 1 mirrored tomato bag, 5 faded silver bags.
+dark tan bags contain 4 striped gold bags.
+muted beige bags contain 3 dark gold bags.
+faded cyan bags contain 5 vibrant yellow bags, 2 shiny plum bags.
+drab beige bags contain 4 dotted orange bags, 2 dark black bags, 2 bright olive bags, 4 dark gold bags.
+drab turquoise bags contain 2 clear blue bags, 2 muted cyan bags, 4 faded turquoise bags.
+striped green bags contain 4 striped plum bags, 5 dark gold bags.
+bright coral bags contain 4 posh teal bags, 3 shiny crimson bags, 5 dim magenta bags.
+plaid plum bags contain 5 wavy teal bags, 3 mirrored beige bags, 3 faded silver bags.
+drab red bags contain 3 light magenta bags, 1 drab salmon bag, 4 shiny tan bags.
+dotted coral bags contain 1 faded black bag.
+wavy coral bags contain 2 posh white bags, 1 shiny gold bag, 1 striped aqua bag.
+bright aqua bags contain 1 dotted olive bag, 1 striped gold bag.
+bright purple bags contain 1 vibrant purple bag, 2 clear orange bags.
+vibrant lime bags contain 1 dotted turquoise bag, 5 dotted magenta bags, 5 light black bags.
+pale indigo bags contain 5 vibrant chartreuse bags, 5 clear white bags, 1 light lime bag, 3 dull silver bags.
+dull bronze bags contain 4 dark indigo bags, 3 plaid bronze bags, 2 pale yellow bags.
+wavy plum bags contain 5 bright chartreuse bags, 5 pale maroon bags, 1 clear lime bag.
+dull purple bags contain 4 muted gray bags.
+drab brown bags contain 3 drab lime bags, 3 dull silver bags, 2 dark gold bags, 3 drab beige bags.
+dotted crimson bags contain 1 dotted black bag.
+bright violet bags contain 5 dull olive bags, 2 striped turquoise bags, 3 vibrant aqua bags, 4 clear maroon bags.
+dark fuchsia bags contain 2 wavy purple bags, 4 pale tan bags, 2 vibrant coral bags, 5 dark brown bags.
+wavy maroon bags contain 2 striped fuchsia bags.
+light white bags contain 2 dull green bags.
+dotted indigo bags contain 2 clear lavender bags, 4 shiny coral bags.
+shiny turquoise bags contain 1 posh crimson bag, 1 posh salmon bag, 4 vibrant bronze bags.
+dull fuchsia bags contain 1 mirrored red bag, 3 posh gray bags, 4 plaid maroon bags, 4 clear gold bags.
+light magenta bags contain 3 plaid tan bags.
+faded beige bags contain 5 bright indigo bags, 1 pale yellow bag, 2 vibrant yellow bags.
+mirrored gold bags contain 1 mirrored blue bag, 2 posh fuchsia bags, 5 dark red bags.
+light salmon bags contain 5 muted black bags, 5 dull blue bags, 2 light aqua bags, 1 pale tomato bag.
+wavy gray bags contain 3 light red bags.
+bright gray bags contain 4 dotted blue bags.
+pale white bags contain 3 drab aqua bags, 3 wavy maroon bags, 4 shiny blue bags, 4 dotted lime bags.
+dim turquoise bags contain 3 striped crimson bags, 2 faded silver bags.
+clear silver bags contain 4 plaid gray bags, 1 dark black bag.
+bright brown bags contain 5 faded chartreuse bags.
+muted olive bags contain 1 dotted red bag, 1 posh green bag.
+striped silver bags contain 3 dotted tomato bags, 1 plaid cyan bag, 4 clear white bags, 5 mirrored indigo bags.
+drab yellow bags contain 5 wavy silver bags, 5 dark orange bags, 3 dark brown bags, 2 bright magenta bags.
+vibrant red bags contain 5 vibrant bronze bags, 2 posh tomato bags, 3 dull lime bags, 2 striped violet bags.
+dotted maroon bags contain 2 vibrant silver bags.
+faded teal bags contain 4 clear lavender bags.
+dim crimson bags contain 1 faded chartreuse bag.
+faded orange bags contain 3 bright magenta bags, 4 mirrored brown bags.
+dotted lime bags contain 4 light brown bags, 1 bright white bag, 5 dim lime bags.
+posh turquoise bags contain 4 striped indigo bags, 2 dim white bags.
+dark beige bags contain 1 dark olive bag.
+dotted black bags contain 2 posh turquoise bags, 3 wavy indigo bags, 4 dotted violet bags.
+dotted fuchsia bags contain 5 dark black bags, 1 clear lime bag.
+plaid magenta bags contain 3 posh maroon bags, 4 drab green bags.
+muted coral bags contain 5 light brown bags, 2 posh chartreuse bags, 1 vibrant tan bag.
+striped yellow bags contain 1 light brown bag.
+posh violet bags contain 3 bright magenta bags.
+dark brown bags contain 2 faded blue bags, 2 dim aqua bags, 5 posh yellow bags, 5 drab violet bags.
+drab fuchsia bags contain 3 shiny aqua bags, 2 plaid lavender bags, 1 muted cyan bag.
+striped maroon bags contain 4 clear lime bags, 5 striped gold bags, 3 clear plum bags, 3 dull tan bags.
+muted yellow bags contain 1 shiny turquoise bag.
+bright silver bags contain 5 striped red bags, 4 dark aqua bags.
+light beige bags contain 1 shiny gold bag, 4 dark orange bags.
+light coral bags contain 3 clear beige bags, 4 shiny maroon bags.
+plaid cyan bags contain 4 pale yellow bags, 1 drab beige bag, 1 bright chartreuse bag, 1 clear coral bag.
+shiny tomato bags contain 3 muted indigo bags, 2 faded indigo bags.
+dark maroon bags contain 1 posh white bag, 2 wavy aqua bags, 5 muted brown bags.
+plaid teal bags contain 1 dull lime bag, 3 faded blue bags, 4 drab cyan bags, 3 clear cyan bags.
+vibrant magenta bags contain 2 wavy tan bags.
+pale tomato bags contain 2 bright silver bags, 1 dull teal bag, 5 dull lime bags, 5 muted aqua bags.
+dim orange bags contain 1 vibrant white bag, 5 bright tomato bags.
+plaid crimson bags contain 2 wavy brown bags, 2 striped maroon bags, 4 dark magenta bags.
+posh beige bags contain 1 faded blue bag.
