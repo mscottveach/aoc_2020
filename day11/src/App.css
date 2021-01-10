@@ -1,0 +1,27 @@
+
+
+.App {
+  display: grid;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15pt;
+  max-width: 1302px;
+  height: 1400px;
+  
+}
+
+.ten-by-ten {
+  display: inline-block;
+  max-width: 1288px;
+  height: 1400px;
+}
+
+.number {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  border: 1px solid rgb(0, 0, 0);
+  width: 14px;
+  height: 14px;
+  padding: 2px;
+  font-size: 10px;
+}

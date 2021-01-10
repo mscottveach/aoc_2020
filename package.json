@@ -4,6 +4,7 @@
   "description": "advent of code, yo",
   "main": "app.js",
   "dependencies": {
+    "create-react-app": "^4.0.1",
     "cytoscape": "^3.17.0",
     "fs": "^0.0.1-security",
     "js-graph-algorithms": "^1.0.18",
